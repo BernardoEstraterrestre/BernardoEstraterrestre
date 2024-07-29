@@ -2,4 +2,4 @@
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultlizo esse espaço  para minha organização e compartilhamento dos meus projetos desenvolvidos
  
-![descrição do GIF]https://i.makeagif.com/media/4-18-2023/ep3Cvy.gif
+    ![image](![image](![image]([https://github.com/user-attachments/assets/107999a6-da31-4fa8-8f9f-374f38181595](https://i.makeagif.com/media/4-18-2023/ep3Cvy.gif))
