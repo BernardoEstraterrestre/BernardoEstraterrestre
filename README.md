@@ -2,4 +2,4 @@
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultlizo esse espaço  para minha organização e compartilhamento dos meus projetos desenvolvidos
  
-(![image](https://github.com/user-attachments/assets/107999a6-da31-4fa8-8f9f-374f38181595)
+![image](https://github.com/user-attachments/assets/107999a6-da31-4fa8-8f9f-374f38181595)
