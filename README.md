@@ -2,4 +2,4 @@
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultlizo esse espaço  para minha organização e compartilhamento dos meus projetos desenvolvidos
  
-![image](](https://media1.tenor.com/m/bWkE0Y8JaBgAAAAC/dragon-ball-super-saiyan.gif))
+![image]([]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJO6SXBv5OU_ycfzpJ4i3cPxBdFarI7S1EkA&s)
